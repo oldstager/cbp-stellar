@@ -1,5 +1,7 @@
 # BasicPay <!-- omit in toc -->
 
+Original URL: https://github.com/stellar/basic-payment-app
+
 > The app that lets you pay, _basically_, anyone.
 
 An example payments application demonstrating integrations of various Stellar
